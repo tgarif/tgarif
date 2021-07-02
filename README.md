@@ -1,4 +1,6 @@
-<img src="https://gorgcimage.sgp1.digitaloceanspaces.com/Purple%20and%20White%20Gaming%20Logo.gif" alt="gorgclogo" width="100%">
+<p align="center">
+  <img src="https://gorgcimage.sgp1.digitaloceanspaces.com/Purple%20and%20White%20Gaming%20Logo.gif" alt="gorgclogo" width="300px">
+</p>
 <br/>
 <br/>
 
