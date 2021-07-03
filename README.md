@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://gorgcimage.sgp1.digitaloceanspaces.com/Purple%20and%20White%20Gaming%20Logo.gif" alt="gorgclogo" width="400px">
+  <img src="https://github.com/gorgc/gorgc/blob/68f2a6ce6bd4ec19238960ead57ed5e3ed2d9f40/photos/Purple%20and%20White%20Gaming%20Logo.gif" alt="gorgclogo" width="400px">
 </p>
 <br/>
 
