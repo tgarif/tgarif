@@ -13,4 +13,4 @@
 <br />
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gorgc&show_icons=true&theme=dark)
+<img style="" src='https://github-readme-stats.vercel.app/api?username=gorgc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true'></img>
