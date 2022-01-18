@@ -21,8 +21,8 @@
 
 ### Social Medias:
 
-<a href="https://www.linkedin.com/in/tengku-arif-tengku-mohd-22ba4520a" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://www.instagram.com/_tg.arif" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://dev.to/tg_arif" target="_blank"><img align="left" alt="dev to aakarsh" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a><br />
+<a href="https://www.linkedin.com/in/tengku-arif-tengku-mohd-22ba4520a" target="_blank"><img align="left" alt="Tengku Arif | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://www.instagram.com/_tg.arif" target="_blank"><img align="left" alt="Tengku Arif | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://dev.to/tg_arif" target="_blank"><img align="left" alt="dev to Tengku Arif" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a><br />
   
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gorgc)
