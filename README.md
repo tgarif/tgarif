@@ -6,6 +6,6 @@ Anime enjoyer, coder and I use nvim btw. &nbsp; ![KEKW](./KEKW.png)
 
 ![cute dance](./cute-dance.gif)
 
-### バイブ
+### 雰囲気
 
 :cat2: Meow, chill, write some code, and enjoy! :cat:
