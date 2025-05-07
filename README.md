@@ -4,7 +4,7 @@
 
 Anime enjoyer, coder and I use nvim btw. &nbsp; ![KEKW](./KEKW.png)
 
-![cute dance](./cute-dance.gif)
+![nier automata](./nier-nier-automata.gif)
 
 ### 雰囲気
 
