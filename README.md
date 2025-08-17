@@ -10,7 +10,7 @@ A Full-Stack Software Engineer and I use nvim btw. &nbsp; ![KEKW](./KEKW.png)
 -   :heart: OpenGL and Vulkan
 -   :fire: **Shader** ... turning math into eye candy since my GPU learned to cry..
 
-![nier automata](./nier-nier-automata.gif)
+![nier automata](./nier-nier-automata.webp)
 
 ### The Vibe
 
